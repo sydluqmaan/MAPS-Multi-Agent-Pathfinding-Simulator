@@ -1,2 +1,2 @@
 # MAPF-Multi-Agent-Pathfinding
-Multi-agent pathfinding system with collision avoidance and time-based conflict resolution.
+This Multi-Agent Pathfinding (MAPF) simulator coordinates the movement of multiple agents in a 2D environment. It leverages the A* algorithm for efficient pathfinding, combined with spatio-temporal techniques to ensure collision avoidance. The simulator includes a graphical simulation that visualizes agent movements in real-time, providing clear insights into pathfinding behavior and agent coordination.
