@@ -33,4 +33,4 @@ This project includes the "Share" font.
 
 Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com, www.carrois.com), with Reserved Font Name "Share."
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. The full license text is available in the LICENSE.txt file or at https://openfontlicense.org.
+This Font Software is licensed under the SIL Open Font License, Version 1.1. The full license text is available in the FONT_LICENSE.txt file or at https://openfontlicense.org.
