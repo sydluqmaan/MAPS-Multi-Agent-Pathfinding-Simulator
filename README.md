@@ -28,3 +28,9 @@ You can interact with the simulator using the following keyboard inputs:
 
 https://github.com/user-attachments/assets/d1e08001-8715-4860-8e86-cdd663827a27
 
+## Licenses
+This project includes the "Share" font.
+
+Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com, www.carrois.com), with Reserved Font Name "Share."
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1. The full license text is available in the LICENSE.txt file or at https://openfontlicense.org.
